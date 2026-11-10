@@ -1,6 +1,8 @@
 # Tesseract — Homebrew tap
 
-Install [Tesseract](https://tesseract.dev), the free AI agent app by Eightcell Labs, Inc., with Homebrew:
+Install [Tesseract](https://tesseract.dev), the free AI agent app by Eightcell Labs, Inc., with Homebrew. It makes
+presentations, websites, documents and video from one sentence, and is a desktop GUI for Claude Code, Codex and 12
+more coding agents ([questions people ask](https://github.com/opentech-dev/tesseract-release#questions-people-ask)):
 
 ```sh
 brew install --cask opentech-dev/tap/tesseract-ai
